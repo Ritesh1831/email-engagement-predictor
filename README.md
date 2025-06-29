@@ -29,17 +29,7 @@ This project is a Streamlit-based web application that predicts email engagement
 
 ---
 
-## 📁 Project Structure
-
-📦 email-engagement-predictor
-├── app.py # Streamlit app UI
-├── email_engagement_model.joblib # Trained ML model
-├── email_engagement_metrics.joblib # Pre-calculated insights
-├── requirements.txt # Python dependencies
-├── code.ipynb # Model training notebook
-├── dataset/ # Training dataset
-├── Deployment Screenshots/ # UI screenshots
-└── README.md # Project documentation
+<pre><code>## 📁 Project Structure ``` 📦 email-engagement-predictor ├── app.py # Streamlit app UI ├── email_engagement_model.joblib # Trained ML model ├── email_engagement_metrics.joblib # Pre-calculated insights ├── requirements.txt # Python dependencies ├── code.ipynb # Model training notebook ├── dataset/ # Training dataset ├── Deployment Screenshots/ # UI screenshots └── README.md # Project documentation ``` </code></pre>
 
 
 
