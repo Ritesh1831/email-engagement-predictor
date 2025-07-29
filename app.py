@@ -3,6 +3,10 @@ import joblib
 import numpy as np
 import pandas as pd
 from sklearn.pipeline import Pipeline
+import xgboost as xgb
+from sklearn.compose import ColumnTransformer  
+from sklearn.preprocessing import OneHotEncoder, StandardScaler 
+
 
 # Load model and metrics
 def load_model():
